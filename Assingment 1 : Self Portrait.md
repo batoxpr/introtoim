@@ -1,6 +1,7 @@
 # **ASSIGNMENT 1 - SELF PORTRAIT USING P5.JS** 🖼️ #
 
-## Here's the [link](https://editor.p5js.org/batoxpr/full/btjEvcjxf) to my Assignment 1: Self-portrait! Along with the [Code Link(https://editor.p5js.org/batoxpr/sketches/btjEvcjxf) 
+Here's the [link](https://editor.p5js.org/batoxpr/full/btjEvcjxf) to my Assignment 1: Self-portrait! 
+Along with the [Code Link](https://editor.p5js.org/batoxpr/sketches/btjEvcjxf)
 
 To draw each shape, I first used a rough code with random parameter values. 
 Then I modified the values to achieve more accurate shapes. Over time, this approach gave a good estimate of which point falls under which area of the canvas.
