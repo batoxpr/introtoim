@@ -16,7 +16,7 @@ To see the animation, please uncomment the **SPECIAL ANIMATION** part of the cod
 
 It took around 2-3 hours to fully finish the drawing. Overall, it was a great practice for making use of various drawing functions of the P5 library.
 
-For the shape codes, I used the class documentation from Github as well as the [Reference](https://p5js.org/reference/) page of the P5 Library site.
-For the Gradient background I used the lerpColor function refering to [this example](https://editor.p5js.org/Jaemi13/sketches/gAS-FB5Sx).
+*For the shape codes, I used the class documentation from Github as well as the [Reference](https://p5js.org/reference/) page of the P5 Library site.
+For the Gradient background I used the lerpColor function refering to [this example](https://editor.p5js.org/Jaemi13/sketches/gAS-FB5Sx).*
 
 
