@@ -1,4 +1,6 @@
-Here's the link to my Assignment 3: OOP Generative Artwork! Along with the Code Link
+# **ASSIGNMENT 2 - OOP Generative Artwork on P5.JS** 🖼️ #
+Here's the [link](https://editor.p5js.org/batoxpr/full/DvB2S-6Gv) to my Assignment 3: OOP Artwork! 
+Along with the [Code Link](https://editor.p5js.org/batoxpr/sketches/DvB2S-6Gv)
 
 First, I made an object called "Eye" that contains constructor, drawEye, and moveEye functions. The constructor contains the x and y position of the eye. 
 The draw eye function uses those constructor values to draw multiple shapes, which come together to draw the eye. 
