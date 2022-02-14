@@ -1,4 +1,4 @@
-# **ASSIGNMENT 2 - OOP Generative Artwork on P5.JS** 🖼️ #
+# **ASSIGNMENT 3 - OOP Generative Artwork on P5.JS** 🖼️ #
 Here's the [link](https://editor.p5js.org/batoxpr/full/DvB2S-6Gv) to my Assignment 3: OOP Artwork! 
 Along with the [Code Link](https://editor.p5js.org/batoxpr/sketches/DvB2S-6Gv)
 
