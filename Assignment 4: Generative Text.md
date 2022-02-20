@@ -15,4 +15,4 @@ Overall, the concept is about how darkness or dark times are an integral part of
 
 Learnings, Next steps - I had many different ideas for making cool generative texts, but eventually ended up settling on the simple one. For my mid-term, I want to create something more daring and ambitious.
 
-Regardless, it was a good practice for making use of various topics we've learn in class.
+Regardless, it was a good practice for making use of various topics we've learnt in class.
