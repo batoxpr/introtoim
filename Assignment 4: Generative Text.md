@@ -1,12 +1,12 @@
-# **ASSIGNMENT 4 - GENERATIVE TEXT on P5.JS** 🖼️ #
+# **ASSIGNMENT 4 - GENERATIVE TEXT on P5.JS** 🎨#
 Here's the [link](https://editor.p5js.org/batoxpr/full/BhxH4QVfa) to my Assignment 4: Generative text! 
 Along with the [Code Link](https://editor.p5js.org/batoxpr/sketches/BhxH4QVfa)
 
-First, I made an object named "Eye" that contains constructor, drawEye, and moveEye functions. The constructor contains the x and y position of the eye. 
-The draw eye function uses those constructor values to draw multiple shapes, which come together to draw the eye. 
-Each shape has their separate fills. I used noise function for the color changing iris.
+Initial Idea: To make some sort of text that looks dope. I wanted write a simple code that achieves aesthetically wanted it to still look aesthetically pleasing.
+Inspiration: Emo culture, Donnie Darko, and the lyrics "Hello darkness my old friend"
 
-The move eye function changes the x and y coordinates of the eye using noise function. I used a pre-declared value k for both noise usages (fill and movement).
-By using the the "for loop" function, I made an array of 9 different eyes in random coordinates. Then I used mouseIsPressed to move the eye when it's pressed. When the mouse is not pressed, it just draws 10 eyes in random places. I wanted all 9 eyes to move, but because I used noise function, they were overlapping. I couldn't really find solution to this. 
+Process: I chose a minimal font named 'SpaceGrotesk' from the GoogleFonts. Preloaded it. I used textToPoints and made an array of text points for my string. I set the samplefactor to 0.3 for more density. Then I made a loop using the array length and created multiple shapes within the loop. The strokeWeight of line increases until it hits 5. The rectangle is for the glitchy looking effect. The vertex shape makes the text look like it was sewn with a thread.
+
+Learnings, Next steps  - I had many different ideas for making generative texts, but eventually ended up settling on the simple one. For my mid-term, I want to create something more daring and ambitious.
 
 Regardless, it was a good practice for making use of various topics we've learn in class.
