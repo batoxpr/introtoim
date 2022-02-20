@@ -11,7 +11,7 @@ The strokeWeight of the line increases until it hits 5. This is for the gradual 
 The rectangle is for the glitchy effect - which shows how imperfections can find a certain balance to look perfect. 
 The vertex shape makes the text look like it was sewn with a thread.
 
-Overall, the concept is about how darkness or dark times are an integral part of life and how we should embrace them with open arms to learn a lesson from them, hence the text "hello darkness'.
+Overall, the concept is about how darkness or dark times are an integral part of life and how we should embrace them with open arms to learn lessons from them, hence the text "hello darkness'.
 
 Learnings, Next steps - I had many different ideas for making cool generative texts, but eventually ended up settling on the simple one. For my mid-term, I want to create something more daring and ambitious.
 
