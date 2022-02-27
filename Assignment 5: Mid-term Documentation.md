@@ -20,5 +20,5 @@ Challenges: To fix the arm with screwdriver, add bandaid to the wounds, eyedrop?
 LEVEL 2; MAKEOVER
 Possibilities: Changeable eye shape?, Changeable Eye color? Changeable ear shape? Outfits?
 
-Process: I'm borrowing an iPad from the Equipment Center on Monday the 28th. I'll start working on the visuals quickly. However, If I conclude that I won't be able to finish this in time ~ I;ll go for a simpler idea with the same concept like the following one[](https://sweaters.itch.io/birdcreator)
+Process: I'm borrowing an iPad from the Equipment Center on Monday the 28th. I'll start working on the visuals quickly. However, If I conclude that I won't be able to finish this in time ~ I;ll go for a simpler idea with the same concept like [the following one](https://sweaters.itch.io/birdcreator)
 
