@@ -6,7 +6,7 @@ Inspired by the late 2000's dress-up/makeover games from sites like y8.com
 BACKGROUND STORY
 The story takes place in an alternate universe where cyborgs and humans can communicate with each other through a website named “cyborg.io” 
 The player is a human who is a user of this website. On the website, the player has become friends with a particular cyborg “247.” The cyborg lives on a planet called “Jubilee”. 
-The cyborg comes to the earth to visit their friend. During the long intergalactic travel to the earth, the cyborg’s body parts are damaged and wounded. The player’s mission is to help fix their friend and rehabilitate them to help them function properly on the earth.
+The cyborg comes to the earth to visit their friend. During the long intergalactic travel to the earth, the cyborg’s body parts are damaged and wounded. The player’s mission is to help fix their friend and rehabilitate them to function properly on the earth.
 
 DESIGN
 - The cyborg will have a heart shaped device named “Electra” that will help them express their emotions and communicate with humans. 
