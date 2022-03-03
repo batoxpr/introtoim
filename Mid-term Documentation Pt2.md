@@ -1,2 +1,2 @@
 So far, I only have the (following)[https://editor.p5js.org/batoxpr/sketches/mkPuaCvwf] code. It contains the basic functionalities of the game. 
-However, I plan to get the game fully finished over the weekend. I'll have the final ready on Tuesday and I'll add final touches based on the feedback. 
+I'm aware that the code is not so effective as it repeats the same lines many times. I plan to implement arrays and classes soon to get the game fully finished over the weekend. I plan to have the final version ready on Tuesday and I'll add extra touches based on the feedback. 
