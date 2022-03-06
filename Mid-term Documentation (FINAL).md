@@ -20,3 +20,7 @@ For the sounds, I;ve found the following:
 For the background image, I've found a pixelated sky gif from google. 
 For the moving title, I made something similar to the example that was included in the Week 5 Github folder.
 For the blinking insruction text, I've used framecount and modulus to make it blink.
+
+//**ISSUES**
+My audios were coming out distorted when I played them. i realized that it happens if I put it by itself within the function.
+https://discourse.processing.org/t/i-am-trying-to-load-in-a-sound-file-to-my-p5-sound-project-but-they-all-come-out-distorted-or-my-screen-goes-black/6121
