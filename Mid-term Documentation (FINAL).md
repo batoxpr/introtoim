@@ -17,5 +17,5 @@ For the sounds, I;ve found the following:
 //**START SCREEN**
 
 For the background image, I've found a pixelated sky gif from google. 
-For the moving title, I made something similar to the example you included in the Week 5 Github.
+For the moving title, I made something similar to the example that was included in the Week 5 Github.
 For the blinking insruction text, I've used framecount and modulus to make it blink.
