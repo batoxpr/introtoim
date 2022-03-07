@@ -19,18 +19,18 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 ![Evil](https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif)
 
 * For the sounds, I've found the following, mainly from FreeSound.org:
--  [win](https://freesound.org/people/Leszek_Szary/sounds/171671/)
--  [lose](https://freesound.org/people/myfox14/sounds/382310/)
--  [shoot](https://freesound.org/people/AlaskaRobotics/sounds/221091/)
--  [kill](https://mixkit.co/free-sound-effects/game/)
+- [win](https://freesound.org/people/Leszek_Szary/sounds/171671/)
+- [lose](https://freesound.org/people/myfox14/sounds/382310/)
+- [shoot](https://freesound.org/people/AlaskaRobotics/sounds/221091/)
+- [kill](https://mixkit.co/free-sound-effects/game/)
 
 ///**start screen**///
 
 * For the background image, I've found a pixelated room gif from google. 
 Insert image here
-* For the moving title, I made something similar to the example that was included in the Week 5 Github folder.
+* For the moving title, I made something similar to the example that was [included]() in the Week 5 Github folder.
 * For the blinking insruction text, I've used framecount and modulus to make it blink. 
-Insert image here
+![blink](assets/blink.png)
 
 **CODING PROCESS**
 I created different states for win and lose cases as well as a start screen and score counter. 
