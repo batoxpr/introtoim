@@ -34,9 +34,14 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 ///**coding process**///
 * I first started to watch [The Coding Train's](https://www.youtube.com/watch?v=l0HoJHc-63Q) P5JS game tutorials. Then I also found multiple other tutorials including [Richard Middleton](https://www.richardmiddleton.me/projects/space-invaders/) and [CodeArt](https://www.youtube.com/watch?v=Z57hx4ey5RY&t=216s). From these examples, I've understood the basic concepts of switching from one state to another, and implementing key functions of P5JS to control the game.
 
-I created different states start screen as well as win and lose cases. 
-I used the KeyPressed() and KeyReleased() functions to make the emoji move,stop, and shoot.
+* I created different states start screen as well as win and lose cases. 
+* I used the KeyPressed() and KeyReleased() functions to make the emoji move,stop, and shoot.
 ![keyctrl](assets/keyctrl.PNG)
+
+* To learn about adding sounds, I've watched the [following tutorial from The Coding Train](https://www.youtube.com/watch?v=40Me1-yAtTc)
+* I added two different animations for win and lose cases as you can see below.
+![lose](https://i.pinimg.com/originals/76/8d/41/768d41c38389731667cf6972ae5bdd1c.gif)
+![win](https://24.media.tumblr.com/tumblr_lnf47xWWSN1qlue6co1_250.gif)
 
 //**issues**
 At firts, my audios were coming out distorted when I played them. I tried them on different computers, and still experienced the same issue. Then i realized that it happens if I put the audios by themselves within the function or draw function.
