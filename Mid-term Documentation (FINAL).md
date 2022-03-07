@@ -25,6 +25,11 @@ For the moving title, I made something similar to the example that was included 
 For the blinking insruction text, I've used framecount and modulus to make it blink. 
 Insert image here
 
+//**CODING PROCESS**
+I created different states for win and lose cases as well as a start screen and score counter. 
+I used the KeyPressed() and KeyReleased() functions to make the emoji move and stop.
+Insert image here.
+
 //**ISSUES**
 My audios were coming out distorted when I played them. i realized that it happens if I put the audios by themselves within the function or draw function.
 I've found the solution from the following link.
