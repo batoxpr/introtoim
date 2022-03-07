@@ -24,6 +24,11 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 - [shoot](https://freesound.org/people/AlaskaRobotics/sounds/221091/)
 - [kill](https://mixkit.co/free-sound-effects/game/)
 
+* Animated Background GIFs downloaded from Google & Pinterest
+![pixelated room](https://i.pinimg.com/originals/50/3e/7b/503e7bdead9d16873dc3aba172bfd595.gif)
+![star fall](https://acegif.com/wp-content/gifs/starfall-gif-46.gif)
+
+
 ///**start screen**///
 
 * For the background image, I've found this [pixelated room](https://i.pinimg.com/originals/50/3e/7b/503e7bdead9d16873dc3aba172bfd595.gif) gif from Pinterest. 
