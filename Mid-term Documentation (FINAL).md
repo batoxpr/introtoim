@@ -42,6 +42,7 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 ![switch](assets/switch.PNG)
 
 * I added two different animations for win and lose cases as you can see below.
+
 ![lose](https://i.pinimg.com/originals/76/8d/41/768d41c38389731667cf6972ae5bdd1c.gif)
 ![win](https://24.media.tumblr.com/tumblr_lnf47xWWSN1qlue6co1_250.gif)
 
