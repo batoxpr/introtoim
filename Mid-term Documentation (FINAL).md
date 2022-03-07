@@ -2,13 +2,13 @@
 
 [Link to the Current version](https://editor.p5js.org/batoxpr/sketches/Sliroo3bj)
 
-///**general idea**///
+    ///**general idea**///
 
 After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. ![SPACE INVADERS](https://koenig-media.raywenderlich.com/uploads/2021/03/supesuInbeda.png)
 
 The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because I realized that there should be some sort of challenge to my game, I decided to go for this concept.
 
-///**assets**///
+    ///**assets**///
 
 ![VT323 Font](assets/font.PNG)
 
@@ -24,12 +24,8 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 - [shoot](https://freesound.org/people/AlaskaRobotics/sounds/221091/)
 - [kill](https://mixkit.co/free-sound-effects/game/)
 
-* Animated Background GIFs downloaded from Google & Pinterest
-![pixelated room](https://i.pinimg.com/originals/50/3e/7b/503e7bdead9d16873dc3aba172bfd595.gif)
-![star fall](https://acegif.com/wp-content/gifs/starfall-gif-46.gif)
 
-
-///**start screen**///
+    ///**start screen**///
 
 * For the background image, I've found this [pixelated room](https://i.pinimg.com/originals/50/3e/7b/503e7bdead9d16873dc3aba172bfd595.gif) gif from Pinterest. 
 * For the moving title, I made something similar to the example that was [included](https://editor.p5js.org/itp42/sketches/X3BWWO3KO) in the Week 4 Github folder.
@@ -46,7 +42,7 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 
 ![switch](assets/switch.PNG)
 
-* I added two different animations for win and lose cases as you can see below.
+* I added two different animations for win and lose cases as you can see below. + [star fall bg](https://acegif.com/wp-content/gifs/starfall-gif-46.gif)
 
 ![lose](https://i.pinimg.com/originals/76/8d/41/768d41c38389731667cf6972ae5bdd1c.gif)
 ![win](https://24.media.tumblr.com/tumblr_lnf47xWWSN1qlue6co1_250.gif)
