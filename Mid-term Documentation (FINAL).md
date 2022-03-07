@@ -8,7 +8,7 @@ After getting a feedback on the dressup game idea, I decided to go for a complet
 //**ASSETS**
 ![VT323 Font](assets/font.PNG)
 
-For the font, I've found the [following font](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. 
+For the font, I've found the [one above](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. 
 I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit well.
 For the characters, I'm using the following two animations I've found from google
 ![Heart Eye](https://acegif.com/wp-content/gif/heart-eyes-10.gif)
