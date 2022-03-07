@@ -8,18 +8,18 @@ After getting a feedback on the dressup game idea, I decided to go for a complet
 //**ASSETS**
 
 For the font, I've found the [following font](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. 
-I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit well.
 ![VT323 Font](assets/font.PNG)
+I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit well.
 
 For the characters, I'm using the following two I've found from google
 ![Heart Eye](https://acegif.com/wp-content/gif/heart-eyes-10.gif)
 ![Evil](https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif)
 
 For the sounds, I've found the following, mainly from FreeSound.org:
-*[win](https://freesound.org/people/Leszek_Szary/sounds/171671/)
-*[lose](https://freesound.org/people/myfox14/sounds/382310/)
-*[shoot](https://freesound.org/people/AlaskaRobotics/sounds/221091/)
-*[kill](https://mixkit.co/free-sound-effects/game/)
+* [win](https://freesound.org/people/Leszek_Szary/sounds/171671/)
+* [lose](https://freesound.org/people/myfox14/sounds/382310/)
+* [shoot](https://freesound.org/people/AlaskaRobotics/sounds/221091/)
+* [kill](https://mixkit.co/free-sound-effects/game/)
 
 //**START SCREEN**
 
