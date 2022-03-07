@@ -8,6 +8,7 @@ After getting a feedback on the dressup game idea, I decided to go for a complet
 //**ASSETS**
 
 For the font, I've found the [following font](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. 
+
 ![VT323 Font](assets/font.PNG)
 I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit well.
 
