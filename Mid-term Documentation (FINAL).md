@@ -3,19 +3,21 @@
 Current version: https://editor.p5js.org/batoxpr/sketches/Sliroo3bj
 I'm still updating the documentation
 
-After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. The name of the game will be "Emoji war" and It'll be a battle between Heart-eye emoji and Evil face emojis. The characters will be animated. Because I realized that there should be some sort of gameplay or challenge to it, I decided to go for this concept.
+After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because I realized that there should be some sort of gameplay or challenge to it, I decided to go for this concept.
 
 //**ASSETS**
 
-For the font, I've found the following from GoogleFonts library. I wanted to go for a pixelated retro gaming theme. Therefore it fits well.
-Insert image here
+For the font, I've found the [following font](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit well.
+![VT323 Font](/assets/font.png)
 For the characters, I'm using the following two I've found from google
-Insert images here
-For the sounds, I;ve found the following:
-(win)https://freesound.org/people/Leszek_Szary/sounds/171671/
-(lose)https://freesound.org/people/myfox14/sounds/382310/
-(shoot)https://freesound.org/people/AlaskaRobotics/sounds/221091/
-(kill)https://mixkit.co/free-sound-effects/game/
+![Heart Eye](https://acegif.com/wp-content/gif/heart-eyes-10.gif)
+![Evil](https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif)
+
+For the sounds, I've found the following, mainly from FreeSound.org:
+[win](https://freesound.org/people/Leszek_Szary/sounds/171671/)
+[lose](https://freesound.org/people/myfox14/sounds/382310/)
+[shoot](https://freesound.org/people/AlaskaRobotics/sounds/221091/)
+[kill](https://mixkit.co/free-sound-effects/game/)
 
 //**START SCREEN**
 
