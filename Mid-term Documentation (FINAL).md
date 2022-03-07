@@ -32,11 +32,11 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 ![blink](assets/blink.PNG)
 
 ///**coding process**///
-* I first started to watch [The Coding Train's](https://www.youtube.com/watch?v=l0HoJHc-63Q) P5JS game tutorials. Then I also found multiple other tutorials including [Tichard Middleton](https://www.richardmiddleton.me/projects/space-invaders/) and [CodeArt](https://www.youtube.com/watch?v=Z57hx4ey5RY&t=216s). From these examples, I've understood the basic concepts of switching from one state to another, and implementing key functions of P5JS to control the game.
+* I first started to watch [The Coding Train's](https://www.youtube.com/watch?v=l0HoJHc-63Q) P5JS game tutorials. Then I also found multiple other tutorials including [Richard Middleton](https://www.richardmiddleton.me/projects/space-invaders/) and [CodeArt](https://www.youtube.com/watch?v=Z57hx4ey5RY&t=216s). From these examples, I've understood the basic concepts of switching from one state to another, and implementing key functions of P5JS to control the game.
 
-I created different states for win and lose cases as well as a start screen and score counter. 
+I created different states start screen as well as win and lose cases. 
 I used the KeyPressed() and KeyReleased() functions to make the emoji move,stop, and shoot.
-Insert image here.
+![keyctrl](assets/keyctrl.PNG)
 
 //**issues**
 At firts, my audios were coming out distorted when I played them. I tried them on different computers, and still experienced the same issue. Then i realized that it happens if I put the audios by themselves within the function or draw function.
