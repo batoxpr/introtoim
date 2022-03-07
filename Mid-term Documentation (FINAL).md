@@ -30,7 +30,7 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 Insert image here
 * For the moving title, I made something similar to the example that was [included]() in the Week 5 Github folder.
 * For the blinking insruction text, I've used framecount and modulus to make it blink. 
-![blink](assets/blink.png)
+![blink](assets/blink.PNG)
 
 **CODING PROCESS**
 I created different states for win and lose cases as well as a start screen and score counter. 
