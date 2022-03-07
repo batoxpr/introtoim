@@ -1,9 +1,11 @@
 # **MID-TERM GAME PROJECT DOCUMENTATION** 🎨🔮✨ #
 
-Current version: https://editor.p5js.org/batoxpr/sketches/Sliroo3bj
-I'm still updating the documentation
+[LINK TO THE CURRENT VERSION](https://editor.p5js.org/batoxpr/sketches/Sliroo3bj)
 
-After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because I realized that there should be some sort of gameplay or challenge to it, I decided to go for this concept.
+//**GENERAL IDEA**
+After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. ![SPACE INVADERS](https://koenig-media.raywenderlich.com/uploads/2021/03/supesuInbeda.png)
+
+The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because I realized that there should be some sort of gameplay or challenge to it, I decided to go for this concept.
 
 //**ASSETS**
 ![VT323 Font](assets/font.PNG)
