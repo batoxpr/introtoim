@@ -5,16 +5,16 @@
 //**GENERAL IDEA**
 After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. ![SPACE INVADERS](https://koenig-media.raywenderlich.com/uploads/2021/03/supesuInbeda.png)
 
-The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because I realized that there should be some sort of gameplay or challenge to it, I decided to go for this concept.
+The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because realized that there should be some sort of challenge to my game, I decided to go for this concept.
 
 //**ASSETS**
 ![VT323 Font](assets/font.PNG)
 
-For the font, I've found the [one above](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. 
+* For the font, I've found the [one above](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. 
 I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit well.
-For the characters, I'm using the following two animations I've found from google
-![Heart Eye](https://acegif.com/wp-content/gif/heart-eyes-10.gif)
-![Evil](https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif)
+* For the characters, I'm using the following two animations I've found from google
+* ![Heart Eye](https://acegif.com/wp-content/gif/heart-eyes-10.gif)
+* ![Evil](https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif)
 
 For the sounds, I've found the following, mainly from FreeSound.org:
 * [win](https://freesound.org/people/Leszek_Szary/sounds/171671/)
@@ -24,10 +24,10 @@ For the sounds, I've found the following, mainly from FreeSound.org:
 
 //**START SCREEN**
 
-For the background image, I've found a pixelated room gif from google. 
+* For the background image, I've found a pixelated room gif from google. 
 Insert image here
-For the moving title, I made something similar to the example that was included in the Week 5 Github folder.
-For the blinking insruction text, I've used framecount and modulus to make it blink. 
+* For the moving title, I made something similar to the example that was included in the Week 5 Github folder.
+* For the blinking insruction text, I've used framecount and modulus to make it blink. 
 Insert image here
 
 //**CODING PROCESS**
