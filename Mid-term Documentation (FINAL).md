@@ -35,6 +35,7 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 * I first started to watch [The Coding Train's](https://www.youtube.com/watch?v=l0HoJHc-63Q) P5JS game tutorials. Then I also found multiple other tutorials including [Richard Middleton](https://www.richardmiddleton.me/projects/space-invaders/) and [CodeArt](https://www.youtube.com/watch?v=Z57hx4ey5RY&t=216s). From these examples, I've understood the basic concepts of switching from one state to another, and implementing key functions of P5JS to control the game.
 
 * I created different states for the start screen as well as win and lose cases. 
+![switch](assets/switch.PNG)
 * I used the KeyPressed() and KeyReleased() functions to make the emoji move,stop, and shoot.
 ![keyctrl](assets/keyctrl.PNG)
 
