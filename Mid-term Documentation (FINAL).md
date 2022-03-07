@@ -46,8 +46,17 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 ![lose](https://i.pinimg.com/originals/76/8d/41/768d41c38389731667cf6972ae5bdd1c.gif)
 ![win](https://24.media.tumblr.com/tumblr_lnf47xWWSN1qlue6co1_250.gif)
 
+///**functions && constructors**///
+
 * I used the KeyPressed() and KeyReleased() functions to make the emoji move,stop, and shoot.
 ![keyctrl](assets/keyctrl.PNG)
+
+* On top of these control functions, I used many other small functions as shown in this
+*list: startUp, runDead, bulletFunc, evilFunc, scoreFunc, reset, startGame, mousePressed
+
+* Most importantly, I made constructors for the three main objects: *evil, heart-eye, and bullet*
+each constructor contains the appearance, sound and basic functionality codes of the objects
+
 
 * To learn about adding sounds, I've watched the [following tutorial from The Coding Train](https://www.youtube.com/watch?v=40Me1-yAtTc)
 
