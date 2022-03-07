@@ -38,6 +38,7 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 ![end](assets/end.PNG)
 
 * the main game's code + functionality are included within the draw function.
+
 ![switch](assets/switch.PNG)
 
 * I added two different animations for win and lose cases as you can see below.
