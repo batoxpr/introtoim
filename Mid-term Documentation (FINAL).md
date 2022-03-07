@@ -3,6 +3,7 @@
 [LINK TO THE CURRENT VERSION](https://editor.p5js.org/batoxpr/sketches/Sliroo3bj)
 
 //**GENERAL IDEA**
+
 After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. ![SPACE INVADERS](https://koenig-media.raywenderlich.com/uploads/2021/03/supesuInbeda.png)
 
 The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because realized that there should be some sort of challenge to my game, I decided to go for this concept.
