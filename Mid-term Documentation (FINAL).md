@@ -1,14 +1,15 @@
 # **MID-TERM GAME PROJECT DOCUMENTATION** 🎨🔮✨ #
 
-[LINK TO THE CURRENT VERSION](https://editor.p5js.org/batoxpr/sketches/Sliroo3bj)
+[Link to the Current version](https://editor.p5js.org/batoxpr/sketches/Sliroo3bj)
 
-//**GENERAL IDEA**
+**General Idea**
 
 After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. ![SPACE INVADERS](https://koenig-media.raywenderlich.com/uploads/2021/03/supesuInbeda.png)
 
 The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because realized that there should be some sort of challenge to my game, I decided to go for this concept.
 
-//**ASSETS**
+**Assets**
+
 ![VT323 Font](assets/font.PNG)
 
 * For the font, I've found the [one above](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. 
@@ -23,7 +24,7 @@ For the sounds, I've found the following, mainly from FreeSound.org:
 * [shoot](https://freesound.org/people/AlaskaRobotics/sounds/221091/)
 * [kill](https://mixkit.co/free-sound-effects/game/)
 
-//**START SCREEN**
+**START SCREEN**
 
 * For the background image, I've found a pixelated room gif from google. 
 Insert image here
