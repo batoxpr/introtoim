@@ -26,13 +26,14 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 
 ///**start screen**///
 
-* For the background image, I've found a pixelated room gif from google. 
-Insert image here
-* For the moving title, I made something similar to the example that was [included]() in the Week 5 Github folder.
+* For the background image, I've found this [pixelated room](https://i.pinimg.com/originals/50/3e/7b/503e7bdead9d16873dc3aba172bfd595.gif) gif from Pinterest. 
+* For the moving title, I made something similar to the example that was [included](https://editor.p5js.org/itp42/sketches/X3BWWO3KO) in the Week 4 Github folder.
 * For the blinking insruction text, I've used framecount and modulus to make it blink. 
 ![blink](assets/blink.PNG)
 
-**CODING PROCESS**
+///**coding process**///
+* I first started to watch [The Coding Train's](https://www.youtube.com/watch?v=l0HoJHc-63Q) P5JS game tutorials. Then I also found multiple other tutorials including the [CodeArt](https://www.youtube.com/watch?v=Z57hx4ey5RY&t=216s). From these examples, I've understood the basic concepts of switching from one state to another, and implementing key functions of P5JS to control the game.
+
 I created different states for win and lose cases as well as a start screen and score counter. 
 I used the KeyPressed() and KeyReleased() functions to make the emoji move and stop.
 Insert image here.
