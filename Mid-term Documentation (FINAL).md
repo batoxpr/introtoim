@@ -6,11 +6,11 @@ I'm still updating the documentation
 After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. The name of the game is "Emoji war" and It'll be a battle game between Heart-eye emoji and Evil face emojis. The heart emoji will shoot bubbles to destroy the evil emoji army. I will use multiple animations and sounds to make the game more interesting. Because I realized that there should be some sort of gameplay or challenge to it, I decided to go for this concept.
 
 //**ASSETS**
+![VT323 Font](assets/font.PNG)
 
 For the font, I've found the [following font](https://fonts.google.com/specimen/VT323?preview.text=Emoji%20War&preview.text_type=custom) from GoogleFonts library. 
-![VT323 Font](assets/font.PNG)
 I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit well.
-For the characters, I'm using the following two I've found from google
+For the characters, I'm using the following two animations I've found from google
 ![Heart Eye](https://acegif.com/wp-content/gif/heart-eyes-10.gif)
 ![Evil](https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif)
 
