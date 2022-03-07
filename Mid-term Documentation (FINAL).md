@@ -66,4 +66,4 @@ each constructor contains the appearance, sound and basic functionality codes of
 * At first, I had many troubles with switching between the states and coding the small functions. However simple Google search, and the examples I mentioned above, particularly  Middleton & The Coding Train, helped me immensely. 
 
 * At firts, my audios were coming out distorted when I uploaded them to P5. I tried them on different computers, and still experienced the same issue. Then i realized that it happens if I put the audios by themselves within the function or draw function.
-I've found the solution from (the following link)[https://discourse.processing.org/t/i-am-trying-to-load-in-a-sound-file-to-my-p5-sound-project-but-they-all-come-out-distorted-or-my-screen-goes-black/6121]
+I've found the solution from [the following link](https://discourse.processing.org/t/i-am-trying-to-load-in-a-sound-file-to-my-p5-sound-project-but-they-all-come-out-distorted-or-my-screen-goes-black/6121)
