@@ -21,3 +21,6 @@ LEVEL 2; MAKEOVER
 Possibilities: Changeable eye shape?, Changeable Eye color? Changeable ear shape? Outfits?
 
 Process: I have the first sketch at the moment. I'm borrowing an iPad from the Equipment Center on Monday the 28th. I'll start working on the visuals quickly. However, If I conclude that I won't be able to finish this in time ~ I;ll go for a simpler idea with the same concept like [the following one](https://sweaters.itch.io/birdcreator){:target="_blank"}
+
+Update 2# So far, I only have the (following)[https://editor.p5js.org/batoxpr/sketches/mkPuaCvwf] code. It contains the basic functionalities of the game. 
+I'm aware that the code is not so effective as it repeats the same lines many times. I plan to implement arrays and classes soon to get the game fully finished over the weekend. I plan to have the final version ready on Tuesday and I'll add extra touches based on the feedback. 
