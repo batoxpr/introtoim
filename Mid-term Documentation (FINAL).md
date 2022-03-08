@@ -64,8 +64,8 @@ reset,
 startGame, 
 mousePressed*
 
-* Most importantly, I made constructors for the three main objects: *evil, heart-eye, and bullet*
-each constructor contains the appearance, sound and basic functionalities of the objects
+* Most importantly, I made constructors for the three main objects: *evil, heart-eye, and bullet.*
+Each constructor contains the appearance, sound and basic functionalities of the objects
 
 
 * To learn about adding sounds, I've watched the [following tutorial from The Coding Train](https://www.youtube.com/watch?v=40Me1-yAtTc)
