@@ -2,7 +2,7 @@
 
 [Link to the Current version](https://editor.p5js.org/batoxpr/sketches/Sliroo3bj)
 
-///**general idea**///
+///**general concept & idea**///
 
 After getting a feedback on the dressup game idea, I decided to go for a completely different concept. The new game will be a "shoot 'em up" arcade game inspired by the classic Space Invaders. ![SPACE INVADERS](https://koenig-media.raywenderlich.com/uploads/2021/03/supesuInbeda.png)
 
