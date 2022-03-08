@@ -49,11 +49,19 @@ I wanted to go for a pixelated retro gaming theme. Therefore, I thought it'd fit
 
 ///**functions && constructors**///
 
-* I used the KeyPressed() and KeyReleased() functions to make the emoji move,stop, and shoot.
+* I used the KeyPressed() and KeyReleased() functions to make the emoji move,stop, and shoot. The left and right arrows are for moving the heart-eye. The space bar is for shooting a bullet.
 ![keyctrl](assets/keyctrl.PNG)
 
 * On top of these control functions, I used many other small functions as shown in this
-*list: startUp, runDead, bulletFunc, evilFunc, scoreFunc, reset, startGame, mousePressed*
+*list: 
+startUp, 
+runDead, 
+bulletFunc, 
+evilFunc, 
+scoreFunc, 
+reset,
+startGame, 
+mousePressed*
 
 * Most importantly, I made constructors for the three main objects: *evil, heart-eye, and bullet*
 each constructor contains the appearance, sound and basic functionalities of the objects
