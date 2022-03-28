@@ -1,7 +1,7 @@
 # **ASSIGNMENT 6 - CREATIVE LED Switch with ARDUINO** 🎨🔮✨ #
 This week's assignment was to create a creative LED switch for an arduino curcuit.
 
-[Link to the Youtube video]()
+[Link to the Youtube video](https://youtu.be/7UY9-VoI3cQ)
 
 First, I remade the same curcuit we built in class. I used the black and red wires, resistor, and a LED light.
 Resistor is the 1/4 Watt, 330 ohm, and carbon film one. I could indicate this through the color code of Orange, Orange, Brown and Gold.
