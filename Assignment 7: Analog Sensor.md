@@ -6,4 +6,8 @@ This week's assignment was to create a Arduino circuit consisting of Analog and 
 In class, we have learned about the Analog input - specifically the Potentometer and Light sensor.
 Based on that, I wanted to think of a creative way of using the Potentometer as a controller.
 
+Digital Write - Digital Output - LEDs turn on when the Potentometer hits a certain point.
+Analog Read - Analog Input - 
+If and Else If conditionals
+
 ![image]()
