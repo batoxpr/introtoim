@@ -22,6 +22,8 @@ After this, I set the Potentometer on the other side of the breadboard. While I 
 
 **/Coding process**
 
+Before starting the main code, I declared the constants as seen below.
+
 Digital Write - Digital Output - LEDs turn on when the Potentometer hits a certain point.
 Analog Read - Analog Input - 
 If and Else If conditionals
