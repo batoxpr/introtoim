@@ -22,15 +22,21 @@ After this, I set the Potentometer on the other side of the breadboard. While I 
 
 **/Coding process**
 
-Before starting the main code, I declared the constants as seen below.
-
-Digital Write - Digital Output - LEDs turn on when the Potentometer hits a certain point.
-Analog Read - Analog Input - 
-If and Else If conditionals
+Before starting the main code, I declared the integers of the LEDs, and the potentometer.
+In the setup section, I declared the pinModes of each integers.
 
 ![image](https://github.com/batoxpr/introtoim/blob/a99fa049b9a06362589a6eeb48a2d4dbc7160428/assets/assignment%207_2.PNG)
 
+In the loop section of the code, I first declared the potMeasure integer, which will be the value coming from the A5 analog input.
+
+After then, I used the If and Else If conditionals to construct the code. Using the DigitalWrite, I assigned High/Low states to the LEDsr relative to the potMeasure value. As described previously, First LED is lit when the potMeasure value is below 256. Then second LED lights up as the value exceeds 256. third one as it reaches 512, and the fourth one on above 768. 
+
 ![image](https://github.com/batoxpr/introtoim/blob/dec963ddd85c4fec0989ee39452b2d8ac61a804b/assets/assignment%207.PNG)
+
+
+**/Symbolism**
+
+I used Potentometer as a metaphor for wallet, an item which we carry in our day to day lives. Each LED is representative of our happiness level. When all four LEDs are on, it's a state of maximum level of happiness. Overall, this piece is a social commentary on how our happiness is dependent on the amount of cash we have in our wallet.
 
 
 
