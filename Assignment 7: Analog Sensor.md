@@ -3,13 +3,13 @@ This week's assignment was to build a circuit on Arduino, making use of the Digi
 
 [Link to the Youtube video](https://youtu.be/JKJx49o2sLA)
 
-**//Initial Idea**
+**/Initial Idea**
 
 In class, we have learned about the Analog input - specifically the Potentometer and Light sensor.
 Based on that experience, I wanted to think of a creative way of using the Potentometer as a controller.
 After some research, I figured out that I can use the Potentometer's input value and use that measure to assign functionalities.
 
-**//Setting up the circuit**
+**/Setting up the circuit**
 
 To implement this possibility, I decided to use the value of Potentometer to control 4 array of LED lights. 
 Maximum possible value of the Potentometer is 1024, which means it'd be 256, 512, 768, and 1024 respectively when divided by 4.
@@ -20,7 +20,7 @@ Each wire is in different color representive of the matching LED colors. All 4 w
 
 After this, I set the Potentometer on the other side of the breadboard. While I connected the left leg to the ground, right leg was connected to the positive. The middle leg is connected to the A5 analog input, distinctive by its white wire. 
 
-**//Coding process**
+**/Coding process**
 
 Digital Write - Digital Output - LEDs turn on when the Potentometer hits a certain point.
 Analog Read - Analog Input - 
