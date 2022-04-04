@@ -16,4 +16,4 @@ If and Else If conditionals
 [image](assets/assignment 7_2.PNG)
 
 
-[image](assets/assignment 7.PNG))
+[image](assets/assignment 7.PNG)
