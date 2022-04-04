@@ -13,6 +13,6 @@ Digital Write - Digital Output - LEDs turn on when the Potentometer hits a certa
 Analog Read - Analog Input - 
 If and Else If conditionals
 
-![image](assets/assignment 7_2.PNG)
+[image](assets/assignment 7_2.PNG)
 
-![image](assets/assignment 7.PNG))
+[image](assets/assignment 7.PNG))
