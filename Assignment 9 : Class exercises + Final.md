@@ -4,7 +4,7 @@ This week's assignment was to finish the exercises we did in class and come up w
 For exercise one, it was pretty straightforward. We just had to remove the extra parts from the code we wrote in class and leave the analog sensor part.
 
 **Task 1:**
-(P5 Code)[https://editor.p5js.org/insiyam/sketches/aZKDbrgGR]
+[P5 Code](https://editor.p5js.org/insiyam/sketches/aZKDbrgGR)
 
 Arduino:
 
