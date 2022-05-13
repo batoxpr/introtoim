@@ -31,7 +31,7 @@ Helvetica, on the other hand, is neat and easy on the eyes, so we thought it was
 <img width="400" alt="tilee" src="https://user-images.githubusercontent.com/90750426/168315089-c017fb58-87f1-4556-bb8c-b4f05ac2da72.png">
 
 
-///**additional design details **///
+///**additional design details**///
 
 - We added triple heart detail on every page to complete the design. To make the hearts float and blink, we usec Framecount function.
 
@@ -40,6 +40,12 @@ Helvetica, on the other hand, is neat and easy on the eyes, so we thought it was
 - Finally, we duplicated the panda on Procreate and drew a different version to make an animated one. We also created an animated gradient background on Photoshop, which loops during the meditation.
 
 <img src="https://user-images.githubusercontent.com/90750426/168316679-52634c37-12b8-4948-b619-6d6feb9dc4c9.gif" width="200"> <img src="https://user-images.githubusercontent.com/90750426/168316892-e42dd523-90f7-4ee2-a8bf-3f7865bacadd.gif" width="200"> 
+
+///**stitching process**///
+
+to learn how to sitch, we followed [https://www.youtube.com/watch?v=K3fFHV6r9Ow](this tutorial) from Youtube. This video demonstrates an invisible stitiching method known as "ladder sititch." This was particularly helpful for beginners like us. After putting all the sensors inside, we made small cuts on the tips of the Panda's legs and hands. This way, we could get more accurate inputs from our sensors.
+
+
 
 
 
