@@ -18,12 +18,17 @@ Helvetica, on the other hand, is neat and easy on the eyes, so we thought it was
 
 - We designed all of our assets on Adobe XD and laid it out accordingly on the P5JS. In this process, Adobe XD's coordinate function helped us greatly in finding the right placements for the assets. For the shapes of our assets, we mainly sticked to rounded corners instead of sharper ones, which resulted in softer-looking aesthetic. 
 
-<img src="https://user-images.githubusercontent.com/90750426/168311446-d621a384-5730-41a5-a31e-777dce24f32f.png" width="200">
-<img src="https://user-images.githubusercontent.com/90750426/168311522-51c3378a-0de8-4536-a056-a2ac30f56171.png" width="200">
+<img src="https://user-images.githubusercontent.com/90750426/168311446-d621a384-5730-41a5-a31e-777dce24f32f.png" width="200"> <img src="https://user-images.githubusercontent.com/90750426/168311522-51c3378a-0de8-4536-a056-a2ac30f56171.png" width="200">
 
 - For our background, we used a plain white background layered with stretch of tiles. This is a prominent design choice reminiscent of 2014 Tumblr era.
 
-<img src="https://user-images.githubusercontent.com/90750426/168314508-4dc7b6b4-7e25-4de6-b06d-e01dcb6c821c.png" width="200">
+<img width="838" alt="tilee" src="https://user-images.githubusercontent.com/90750426/168315089-c017fb58-87f1-4556-bb8c-b4f05ac2da72.png">
+
+- We added triple heart detail on every page to complete the design. To make the hearts float and blink, we usec Framecount function.
+
+<img width="363" alt="blink" src="https://user-images.githubusercontent.com/90750426/168315788-730f7905-17c5-41c6-b5fa-6f05df0ca318.png">
+![tripleheart](https://user-images.githubusercontent.com/90750426/168315830-8c538cf9-2956-4675-af81-394949c35aa4.png)
+
 
 
 
