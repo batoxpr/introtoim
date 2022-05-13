@@ -26,8 +26,14 @@ Helvetica, on the other hand, is neat and easy on the eyes, so we thought it was
 
 - We added triple heart detail on every page to complete the design. To make the hearts float and blink, we usec Framecount function.
 
-<img src="https://user-images.githubusercontent.com/90750426/168315830-8c538cf9-2956-4675-af81-394949c35aa4.png" width="200">
-<img width="363" alt="blink" src="https://user-images.githubusercontent.com/90750426/168315788-730f7905-17c5-41c6-b5fa-6f05df0ca318.png">
+<img src="https://user-images.githubusercontent.com/90750426/168315830-8c538cf9-2956-4675-af81-394949c35aa4.png" width="100"> <img width="363" alt="blink" src="https://user-images.githubusercontent.com/90750426/168315788-730f7905-17c5-41c6-b5fa-6f05df0ca318.png">
+
+- Finally, we duplicated the panda on Procreate and drew a different version to make an animated one. We also created an animated gradient background on Photoshop, which loops during the meditation.
+
+<img src="https://user-images.githubusercontent.com/90750426/168316679-52634c37-12b8-4948-b619-6d6feb9dc4c9.gif" width="300"> 
+<img src="https://user-images.githubusercontent.com/90750426/168316892-e42dd523-90f7-4ee2-a8bf-3f7865bacadd.gif" width="300"> 
+
+
 
 
 
