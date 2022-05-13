@@ -43,7 +43,7 @@ Helvetica, on the other hand, is neat and easy on the eyes, so we thought it was
 
 ///**stitching process**///
 
-to learn how to sitch, we followed [https://www.youtube.com/watch?v=K3fFHV6r9Ow](this tutorial) from Youtube. This video demonstrates an invisible stitiching method known as "ladder sititch." This was particularly helpful for beginners like us. After putting all the sensors inside, we made small cuts on the tips of the Panda's legs and hands. This way, we could get more accurate inputs from our sensors.
+to learn how to sitch, we followed [GitHub Pages](https://www.youtube.com/watch?v=K3fFHV6r9Ow) from Youtube. This video demonstrates an invisible stitiching method known as "ladder sititch." This was particularly helpful for beginners like us. After putting all the sensors inside, we made small cuts on the tips of the Panda's legs and hands. This way, we could get more accurate inputs from our sensors.
 
 
 
