@@ -2,10 +2,11 @@
 
 ///**design concept & ideas**///
 
-- After thinking over the UI design, We decided to stick with two primary colors (Pastel yellow (255, 252, 156) and White (255,255,255) for the clean minimalistic look. 
+- After thinking over the UI design, We decided to stick with two primary colors (warm pastel yellow (252, 238, 184) and white (255,255,255) for the clean minimalistic look. 
 
 
 - We designed the Panda logo on iPad's Procreate app. First we made a rough sketch of the panda, and followed up with more layers to polish.
+<img width="300" alt="helveticaa" src="https://user-images.githubusercontent.com/90750426/168313254-84ba5da7-3f7f-473a-ac41-7e773582df8d.png">
 <img src="https://user-images.githubusercontent.com/90750426/168308861-ebef65c0-b7cc-474f-85bc-00bbb26b7159.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/90750426/168308792-2bc111a4-a91f-4930-8cfb-bc69ef901b99.png" width="300">
 
