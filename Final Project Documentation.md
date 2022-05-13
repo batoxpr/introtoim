@@ -1,4 +1,4 @@
-# **MID-TERM GAME PROJECT DOCUMENTATION** 🎨🔮✨ #
+# **FINAL PROJECT DOCUMENTATION** 🎨🔮✨ #
 
 ///**design concept & ideas**///
 
@@ -6,9 +6,9 @@ After thinking over the UI design, We decided to stick with two primary colors f
 Pastel yellow (255, 252, 156) and White (255,255,255).
 
 We designed the logo on iPad's Procreate app. First we made a rough sketch of the panda, and added more layers to polish later on.
-![IMG_0006](https://user-images.githubusercontent.com/90750426/168308861-ebef65c0-b7cc-474f-85bc-00bbb26b7159.jpg)
+![IMG_0006](https://user-images.githubusercontent.com/90750426/168308861-ebef65c0-b7cc-474f-85bc-00bbb26b7159.jpg | width=100)
 
-![cornerlogo](https://user-images.githubusercontent.com/90750426/168308792-2bc111a4-a91f-4930-8cfb-bc69ef901b99.png)
+![cornerlogo](https://user-images.githubusercontent.com/90750426/168308792-2bc111a4-a91f-4930-8cfb-bc69ef901b99.png| width=100)
 
 
 We chose Helvetica Oblique and Million Dreams as main two fonts. Since Million Dreams was the fancier one, we used that for the Logo and Menu options.
