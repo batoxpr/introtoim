@@ -16,7 +16,8 @@
 Helvetica, on the other hand, is neat and easy on the eyes, so we thought it was a good choice for directions and instructions.
 
 
-<img src="https://user-images.githubusercontent.com/90750426/168308495-2f73cb99-6185-4e11-b0f6-1a0ded333e4b.png" height="400"> <img width="400" alt="directions" src="https://user-images.githubusercontent.com/90750426/168314081-c9824605-7be4-430c-b47d-bfcb6984cfa6.png"> <img width="300" alt="helveticaa" src="https://user-images.githubusercontent.com/90750426/168313254-84ba5da7-3f7f-473a-ac41-7e773582df8d.png">
+<img src="https://user-images.githubusercontent.com/90750426/168308495-2f73cb99-6185-4e11-b0f6-1a0ded333e4b.png" height="200"> <img width="400" alt="directions" src="https://user-images.githubusercontent.com/90750426/168314081-c9824605-7be4-430c-b47d-bfcb6984cfa6.png"> 
+<img width="300" alt="helveticaa" src="https://user-images.githubusercontent.com/90750426/168313254-84ba5da7-3f7f-473a-ac41-7e773582df8d.png">
 
 
 ///**design assets and shapes **///
