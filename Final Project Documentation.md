@@ -30,8 +30,9 @@ Helvetica, on the other hand, is neat and easy on the eyes, so we thought it was
 
 - Finally, we duplicated the panda on Procreate and drew a different version to make an animated one. We also created an animated gradient background on Photoshop, which loops during the meditation.
 
-<img src="https://user-images.githubusercontent.com/90750426/168316679-52634c37-12b8-4948-b619-6d6feb9dc4c9.gif" width="300"> 
-<img src="https://user-images.githubusercontent.com/90750426/168316892-e42dd523-90f7-4ee2-a8bf-3f7865bacadd.gif" width="300"> 
+<img src="https://user-images.githubusercontent.com/90750426/168316679-52634c37-12b8-4948-b619-6d6feb9dc4c9.gif" width="200"> <img src="https://user-images.githubusercontent.com/90750426/168316892-e42dd523-90f7-4ee2-a8bf-3f7865bacadd.gif" width="200"> 
+
+
 
 
 
